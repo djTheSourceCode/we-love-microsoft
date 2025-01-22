@@ -1,0 +1,20 @@
+2025-01-09 21:35:13.639 [info] 
+
+
+
+
+2025-01-09 21:35:13.656 [info] Extension host agent started.
+2025-01-09 21:35:13.727 [info] [127.0.0.1][214bd634][ManagementConnection] New connection established.
+2025-01-09 21:35:14.007 [info] [127.0.0.1][15ce153d][ExtensionHostConnection] New connection established.
+2025-01-09 21:35:14.853 [info] [127.0.0.1][15ce153d][ExtensionHostConnection] <16101> Launched Extension Host Process.
+2025-01-10 01:45:01.478 [info] [127.0.0.1][214bd634][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-01-10 16:12:03.939 [info] [127.0.0.1][214bd634][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-01-10 16:12:03.940 [info] [127.0.0.1][214bd634][ManagementConnection] The client has reconnected.
+2025-01-10 16:12:10.743 [info] [127.0.0.1][15ce153d][ExtensionHostConnection] The client has reconnected.
+2025-01-10 17:30:42.339 [info] [127.0.0.1][214bd634][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-01-10 17:30:42.422 [info] [127.0.0.1][15ce153d][ExtensionHostConnection] <16101> Extension Host Process exited with code: 0, signal: null.
+2025-01-10 17:30:46.396 [info] [127.0.0.1][1717556f][ManagementConnection] New connection established.
+2025-01-10 17:30:46.663 [info] [127.0.0.1][705cd905][ExtensionHostConnection] New connection established.
+2025-01-10 17:30:46.681 [info] [127.0.0.1][705cd905][ExtensionHostConnection] <42242> Launched Extension Host Process.
+2025-01-10 17:31:17.235 [info] [127.0.0.1][1717556f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-01-10 17:31:17.294 [info] [127.0.0.1][705cd905][ExtensionHostConnection] <42242> Extension Host Process exited with code: 0, signal: null.
