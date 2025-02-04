@@ -1,0 +1,12 @@
+2025-02-04 18:06:12.641 [info] 
+
+
+
+
+2025-02-04 18:06:12.641 [info] Extension host agent started.
+2025-02-04 18:06:12.665 [info] Started initializing default profile extensions in extensions installation folder. file:///home/dj-p/.vscode-server/extensions
+2025-02-04 18:06:12.858 [info] [127.0.0.1][69025f01][ManagementConnection] New connection established.
+2025-02-04 18:06:12.918 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/dj-p/.vscode-server/extensions
+2025-02-04 18:06:13.662 [info] [127.0.0.1][72497c1e][ExtensionHostConnection] New connection established.
+2025-02-04 18:06:13.856 [info] [127.0.0.1][72497c1e][ExtensionHostConnection] <812> Launched Extension Host Process.
+2025-02-04 18:06:14.619 [error] [network] #1: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET AggregateError [ETIMEDOUT]: 
